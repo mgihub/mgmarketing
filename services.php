@@ -174,10 +174,11 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
                     <h3 class="mb-4 text-uppercase">Brand identity</h3>
-                    <p class="mb-4">Brand identity is a collection of visual elements that represent a company's ideas and allow customers to remember and
-                        distinguish one brand from dozens of others. It aids in shaping consumers' perceptions of a company, fostering loyalty and trust,
-                        and making a brand memorable. Here at MG Marketing help you get the best. We design weekly poster for your company design a logo
-                        and any other related designs for your company</p>
+                    <p class="mb-4">Brand identity is a collection of visual elements that represent a company's ideas.
+                        It allows customers to remember and distinguish one brand from others. It plays a critical role in
+                        shaping consumers' perceptions of a company, fostering loyalty and trust, thus making
+                        the brand memorable. Here at MG Marketing help you develop your Brand Identity through visual
+                        elements such as company design and logo, Typography, Brand Colours, etc.</p>
                 </div>
             </div>
         </div>
@@ -193,8 +194,9 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
                     <h3 class="mb-4 text-uppercase">Photography and Videography</h3>
-                    <p class="mb-4"> Ever wondered how you are going to capture those pictures as well us take a video of your company and edit it.
-                        We are here for you. Once you sign up with us .We do that for you for free and regularly
+                    <p class="mb-4"> Ever wondered how to capture those moments and create stunning motioned visuals of your product, Company, or Service? <br>
+                        We have a great Media department segmented to Curate and Develop such content within your desired needs and Market trends.
+                        Nothing beats a great Visual and we have that on lock.
                     </p>
                 </div>
             </div>
@@ -210,7 +212,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
-                    <h3 class="mb-4 text-uppercase">Wbsite design</h3>
+                    <h3 class="mb-4 text-uppercase">Website design</h3>
                     <p class="mb-4">What Is the Purpose of Having a Website?
                         The short answer is that websites can help you generate business, sales, and leads, as well as increase the value of your brand.
                         It aids in increasing credibility in the eyes of customers and allows businesses to showcase their services to a targeted audience.
@@ -225,10 +227,10 @@
     <div class="container-xxl py-5 call-to-action d-flex align-items-center justify-content-center">
         <div class=" container row bg-light p-5 shadow rounded-1">
             <div class="col-md-8 col-lg-8">
-                <h1 class=" text-warning">Like What you see?? Get in touch</h1>
+                <h1 class=" text-warning">Let's make a Plan.</h1>
             </div>
             <div class="col-md-3 col-log-4 d-flex justify-content-center">
-                <a class="btn btn-primary py-2 rounded-1" href="tel:+254 712 261633">Contact Us <i class="fas fa-arrow-right shadow mx-3"></i></a>
+                <a class="btn btn-primary py-2 rounded-1 text-center" href="tel:+254 712 261633">Contact Us <i class="fas fa-arrow-right shadow mx-3"></i></a>
             </div>
         </div>
 
